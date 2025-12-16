@@ -23,7 +23,7 @@ I'm a dedicated **React Native developer** with a strong foundation in **Next.js
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maityshub) |
 | **Email** | maityshubham1510@gmail.com |
-| **Resume/CV** | [View My Experience](https://drive.google.com/file/d/15ApAnum2V4rrcb55VJ12CoEmXHVQhT00/view) |
+| **Resume/CV** | [View My Experience](https://drive.google.com/file/d/1b1XtDROnvhCnMVjj41T4LsEc6yQnxBOQ/view?usp=sharing) |
 
 ---
 
