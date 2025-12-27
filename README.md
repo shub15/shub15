@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRkNzF0N21vY2t4ZXJtb3Z3Z20xZmc4N2FyZDB1ZDk0MzVtNHlvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
   <h1 align="center">Hey there! I'm Shubham Maity 👋</h1>
-  <h3 align="center">🚀 React Native Developer | Full-Stack Enthusiast</h3>
+  <h3 align="center">🚀 React Native | Full-Stack Developer</h3>
 </div>
 
 ---
@@ -23,7 +23,7 @@ I'm a dedicated **React Native developer** with a strong foundation in **Next.js
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maityshub) |
 | **Email** | maityshubham1510@gmail.com |
-| **Resume/CV** | [View My Experience](https://drive.google.com/file/d/1b1XtDROnvhCnMVjj41T4LsEc6yQnxBOQ/view?usp=sharing) |
+| **Resume/CV** | [View My Experience](https://drive.google.com/file/d/1zMysJYn9ocJEITt_MYQjsrNULKBrR8wI/view?usp=sharing) |
 
 ---
 
