@@ -31,7 +31,7 @@ I am a **Full-Stack Developer** specializing in **Mobile and Backend** systems. 
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23277e7a.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Backend & Systems
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -40,21 +40,21 @@ I am a **Full-Stack Developer** specializing in **Mobile and Backend** systems. 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23006f8b.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 #### 📊 Data Science & AI
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%230000ff.svg?style=flat-square&logo=opencv&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-FF4500?style=flat-square&logo=databricks&logoColor=white)
 
 #### 🔧 Database & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230b002f.svg?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
